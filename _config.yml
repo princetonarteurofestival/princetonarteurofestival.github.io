@@ -1,0 +1,6 @@
+---
+markdown: redcarpet
+project: 2015 Courchevel International Music Festival
+collections:
+  page:
+    output: true
