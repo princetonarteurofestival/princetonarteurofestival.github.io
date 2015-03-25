@@ -1,0 +1,18 @@
+body {
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+}
+
+.jumbotron {
+  background-image: url(/images/courchevel.jpg);
+  background-size: cover; 
+  color: white;
+}	
+
+.navbar-inverse {
+  background-color: #003100;
+}
