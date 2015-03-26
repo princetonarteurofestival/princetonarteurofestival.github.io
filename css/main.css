@@ -16,3 +16,11 @@ body {
 .navbar-inverse {
   background-color: #003100;
 }
+
+dl, dt, dd {
+  font-weight: normal;
+}
+
+dd {
+  margin-left: 1em;
+}
