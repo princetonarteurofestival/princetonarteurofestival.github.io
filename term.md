@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About
+title: Term of Service
 ---
 # Term of Service
