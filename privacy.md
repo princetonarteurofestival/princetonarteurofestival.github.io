@@ -2,7 +2,7 @@
 layout: default
 title: privacy
 ---
-# Privacy
+# Privacy Policy
 
 This privacy policy discloses the privacy practices for (www.princetonfestival.info). 
 This privacy policy applies solely to information collected by this web site. It will notify you of the following:
