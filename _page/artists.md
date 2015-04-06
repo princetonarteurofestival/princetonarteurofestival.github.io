@@ -27,8 +27,9 @@ title: Artists
 # André Emelianoff
 
 
-毕业于茱莉亚音乐学院 。1976至2001年在纽约室内交响乐团任首席大提琴手，期间录制过独奏施特劳斯的Bourgeois Gentilhomme.。在德国瑙姆堡Da Capo Chamber Players担任提琴手34年。克利夫兰管弦乐团担任大提琴手。演出经历遍及欧洲、中亚、东亚和北美，应邀在很多音乐节演出，在林肯中心、休斯敦Da Camera, Chamber Music West等地担任过客座艺术家。
-致力音乐教育，在巴德学院1990年起在茱莉亚音乐学院教授大提琴和室内乐；2010年起在Lehman学院兼职教授大提琴。
+安德烈•伊米莉亚诺夫
+世界著名大提琴演奏家，朱莉亚音乐学院大学和预科学院教师。纽约室内乐团和新泽西交响乐团，纽约缪泽卡。萨克拉的首席大提琴演奏家，克里夫兰交响乐团成员。
+毕业于茱莉亚音乐学院 。致力音乐教育，在巴德学院1990年起在茱莉亚音乐学院教授大提琴和室内乐；2010年起在Lehman学院兼职教授大提琴。1976至2001年在纽约室内交响乐团任首席大提琴手，期间录制过独奏施特劳斯的Bourgeois Gentilhomme.。在德国瑙姆堡Da Capo Chamber Players担任提琴手34年。演出经历遍及欧洲、中亚、东亚和北美，应邀在很多音乐节演出，在林肯中心、休斯敦Da Camera, Chamber Music West等地担任过客座艺术家。他曾与很多世界著名音乐出版公司合作出版专辑，包括，RCA, CRI, Opus One, New World Records, Nonesuch, GM Recordings, Bridge Records and Prop Arte， 等等。
 
 The Juilliard School
 Chamber Music faculty since 1992; cello faculty since 2000; Pre-College since 1990.
