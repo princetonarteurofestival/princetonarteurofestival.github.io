@@ -4,7 +4,7 @@ title: Artists
 ---
 # Arik Braude 
 
-![](/images/artist1.png)
+<img src="/images/artist1.png" height="150">
 
 
 被赞誉为“专业的，温暖的，感人的，平衡和谐的，最好的传统室内乐演奏风格” (Sulzbach-Rosenberg, 德国), 小提琴家 艾立克-布劳德在大西洋两岸经常参与系列音乐会和音乐节的演奏。作为独奏演奏家，他出现在曼谷交响乐团，以色列交响乐团，（苏联）别尔哥德罗交响乐团，（保加利亚）室内交响乐团，和很多节日交响乐团，包括，（瑞士）国际大师演奏团，（瑞士）耶胡迪-梅纽因节日交响乐团，和最近的俄罗斯贝罗的明斯克交响乐团，等。节日室内乐方面有，加州的“门罗音乐”，（法国）节日之弧，（法国）撒瓦乐团，（德国）舒尔茨巴赫堡音乐节，（法国）国际音乐节，（美国佛蒙特州）肯灵顿室内音乐节。他还出品有《门罗音乐》，《Talent Cassics》，《Le Chant de Linos》等录音。
@@ -15,7 +15,8 @@ title: Artists
 
 # Sophie Arbuckle
 
-![](/images/artist2.png)
+<img src="/images/artist2.png" height="150">
+
 
 
 苏菲-阿巴克尔，现任朱莉亚音乐学院大学预科班和曼尼斯音乐学院预备系教师。她曾在美国，加拿大，欧洲的很多室内乐音乐节上参与组织和演出，包括美国加州2004年门罗音乐节并任教于室内乐培训班；美国佛蒙特基灵顿音乐节；法国国家艾因传统音乐节；法国萨沃伊音乐节；德国和谐室内音乐节；翠微室内音乐节并自2006年起任其艺术教师。 她还在加拿大萨博里交响乐团人客座大师并经常担任独奏。最近她还与法国Belgorade乐团合作演出莫扎特交响协奏曲。
@@ -53,7 +54,7 @@ is known worldwide as a cello soloist, chamber artist, and teacher whose innovat
 
 # Gerald Robbins
 
-![](/images/artist3.png)
+<img src="/images/artist3.png" height="150">
 
 Manhattan School of Music
 
@@ -79,8 +80,7 @@ Mr. Robbins is a member of the chamber music faculty of Manhattan School of Musi
 
 # Marina Primachenko
 
-
-![](/images/artist4.png)
+<img src="/images/artist4.png" height="150">
 
 
 完美融合了圣彼得堡学院的严谨风格和莫斯科演奏家的技巧，创造了独有的风格：温暖、直接。得益于长期演奏她喜欢的作曲家的曲目，她对音乐的独特演绎常常打动观众。她最擅长演奏肖邦，舒曼和拉赫玛尼诺夫的作品。
@@ -101,7 +101,7 @@ Marina Primachenko combines her performance career with her pedagogical work, re
 
 # Polina Leschenko
 
-![](/images/artist6.png)
+<img src="/images/artist6.png" height="150">
 
 Polina Leschenko was born in St Petersburg into a family of musicians and began playing the piano under her father’s guidance at the age of six. Two years later she made her solo début with the Leningrad Symphony Orchestra in St Petersburg. She studied with Sergei Leschenko, Vitali Margulis, Pavel Gililov, Alexandre Rabinovitch-Barakovsky and Christopher Elton. At the age of 16 she received her Higher Diploma with the greatest distinction from the Royal Conservatory in Brussels.
 Leschenko works with orchestras around the world including the Hallé, London Mozart Players, Scottish Chamber, Bournemouth Symphony, Britten Sinfonia, Russian National, Orquesta de Euskadi and Australian Chamber Orchestras. An accomplished and admired chamber musician, Polina Leschenko also performs frequently at many festivals, including Aldeburgh, Risor, West Cork, Stiift, Moritzburg, Progetto Martha Argerich in Lugano and Musiktage Mondsee. Regular collaborations with artists include Heinrich Schiff, Ivry Gitlis, Christian Poltéra, Mark Drobinsky, Julia Fischer, Alexander Sitkovetsky, Natalie Clein and Priya Mitchell.
@@ -120,5 +120,4 @@ Polina Leschenko has recorded a début CD for EMI in the series ‘Martha Argeri
 <img src="/images/artist7.png" height="150">
 
 The young Belgian-Israeli violist Nathan Braude is rapidly emerging as one of the most promising viola players of his generation. Nathan has performed in many of the world's most prestigious concert venues including the Wigmore Hall in London, Théâtre de la Ville in Paris, Amsterdam Concertgebouw and the Palais des Beaux-Arts in Brussels. He has also appeared as a soloist with numerous orchestras including the "Brussels Philharmonic", "Orchestre National de Lille", Orchestre Philharmonique Royal de Liège", "Symfonieorkest Vlaanderen", "Limburgs Symfonie Orkest", "Solistes Européens Luxembourg"…Nathan's festival appearances include "Progretto Martha Argerich" in Lugano, "Ravinia Festival" in Chicago, ''Festival de Radio France" in Montpellier'' and the "Festival Juventus" where he was nominated "Lauréat Juventus" in 2008. Since 2010 Nathan regularly performs in duo recitals together with his wife Polina Leschenko. Past highlights have included Bartók's viola concerto and Paganini's Gran Sonata per la viola with the "Limburgs Symphonie Orkest", Berlioz's Harold en Italie with the Brussels Philharmonic under the baton of Maestro Michel Tabachnik at the Palais des Beaux-Arts in Brussels, début recitals at the Théâtre de la Ville in Paris, the Palais des Beaux Arts and numerous chamber music concerts at the Concertgebouw in Amsterdam. His début recording for the Fuga Libera label with the complete works for viola, by the Belgian composer Joseph Jongen, has been released to great critical acclaim.Nathan's recent recordings include the Dvorak piano quartet op.87 released on EMI Classics as part of the "Martha Argerich and Friends: Live from the Lugano Festival 2012" series. His first recital CD together with Polina Leschenko will be released in September 2014 for the Avanti classic label. Alongside his concert appearances Nathan teaches at the Royal Conservatory of Music in Ghent, Belgium.Nathan Braude plays a viola by Pietro Giovanni Mantegazza (Milano, 1772). 
-
 
