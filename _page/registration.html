@@ -1,82 +1,30 @@
 ---
-layout: default
+layout: form
 title: Registration
 ---
-
 <div class="container">
-  <h3>2015 Courchevel International Music Festival Registration Form</h3>
-    <div class="form-group">
-      <label for="name">Name of festival participant:</label>
-      <input type="text" class="form-control" id="name" placeholder="Enter name">
-    </div>
-
-    <div class="form-group">
-      <label for="age">Age:</label>
-      <input type="text" class="form-control" id="age" placeholder="Enter age">
-    </div>
-
-    <div class="form-group">
-      <label for="instrument">Instrument:</label>
-      <input type="text" class="form-control" id="instrument" placeholder="Enter instrument">
-    </div>
-
-    <div class="form-group">
-      <label for="address">Address:</label>
-      <input type="text" class="form-control" id="address" placeholder="Enter address">
-    </div>
-
-    <div class="form-group">
-      <label for="telephone">Telephone Number:</label>
-      <input type="tel" class="form-control" id="telelphone" placeholder="Enter telephone number">
-    </div>
-
-    <div class="form-group">
-      <label for="email">E-mail address:</label>
-      <input type="email" class="form-control" id="email" placeholder="Enter e-mail address">
-    </div>
-
-    <div class="form-group">
-      <label for="guardian">Name of parent/guardian:</label>
-      <input type="text" class="form-control" id="guardian" placeholder="Enter name of parent/guardian">
-<div>
-(if under 18 and not accompanied): All participants under the age of 18 as of the start date of the festival, who are not accompanied by a parent or guardian, must provide a signed release form. Forms may be requested from the New York office.
+  <div class="row">
+    <section>
+      <div class="page-header">
+        <h1>2015 Courchevel International Music Festival Registration Form</h1>
+      </div>
+      <div class="col-lg-8 col-lg-offset-2">
+        <form id="defaultForm" method="post" action="#" class="form-horizontal">
+          {% include name.html %}
+          {% include age.html %}
+          {% include guardian.html %}
+          {% include phone.html %}
+          {% include email.html %}
+          {% include emergency.html %}
+          {% include instrument.html %}
+          {% include solo.html %}
+          {% include orchestra.html %}
+          {% include teacher1.html %}
+          {% include teacher2.html %}
+          {% include address.html %}
+          {% include submit.html %}
+        </form>
+      </div>
+    </section>
+  </div>
 </div>
-    </div>
-
-    <div class="form-group">
-      <label for="contact">Emergency contact information:</label>
-      <input type="text" class="form-control" id="contact" placeholder="Enter emergency contact information">
-    </div>
-
-    <div class="form-group">
-      <label for="solo">Solo repertoire recently performed:</label>
-      <input type="text" class="form-control" id="solo" placeholder="Enter solo repertoire recently performed">
-    </div>
-
-    <div class="form-group">
-      <label for="teacher1">Requested teacher I:</label>
-      <input type="text" class="form-control" id="teacher1" placeholder="Enter teacher name">
-    </div>
-
-    <div class="form-group">
-      <label for="teacher2">Requested teacher II:</label>
-      <input type="text" class="form-control" id="teacher2" placeholder="Enter teacher name">
-    </div>
-<div>
-   (The festival reserves the right to reassign a student to another teacher, should the requested teacher not be available.)
-</div>
-    <button id="submit" type="submit" class="btn btn-default">Submit</button>
-</div>
-
-<script>
-function submit() {
-  var data = {};
-  $.each($('input'), function(k, v) {
-     data[v.id] = v.value;
-  });
-  console.log(data);
-  alert("Thank you");
-  document.location = "/";
-}
-$('button#submit').on('click', submit);
-</script>
