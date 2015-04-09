@@ -28,3 +28,26 @@ title: Registration
     </section>
   </div>
 </div>
+<!-- Button trigger modal -->
+<button type="button" id="reviewButton" style="display:none" data-toggle="modal" data-target="#reviewModal">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="reviewModal" tabindex="-1" role="dialog" aria-labelledby="reviewModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="reviewModalLabel">Please review your form</h4>
+      </div>
+      <div class="modal-body">
+        <div id="review"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" id="submit">Submit</button>
+      </div>
+    </div>
+  </div>
+</div>
