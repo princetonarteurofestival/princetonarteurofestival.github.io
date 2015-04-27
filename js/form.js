@@ -26,19 +26,23 @@ $(document).ready(function() {
             // Get the BootstrapValidator instance
             var bv = $form.data('bootstrapValidator');
             var html = '<dl>';
+            var email = '';
             var subject = 'Courchevel International Music Festival Registration Form';
             $.each($('#defaultForm').serializeArray(), function (k, v) { 
-              if(v.name === 'name') {
-                 subject += ' for ' + v.value;
-              }
+              if(v.name === 'name') { subject += ' for ' + v.value; }
+              if(v.name === 'email') { email = v.value; }
               if(v.value) {
                 html += '<dt>' + v.name + '</dt><dd>' + v.value + '</dd>' ;
               }
             });
             html += '</dl>';
+            var data = { "subject": subject, "email": email, "html": html }
             $('#review').html(html);
             $('#reviewButton').click();
             $('#submit').click(function () {
+              $.post('http://45.55.129.52:3000/api', data, function(result) {
+                console.log(result);
+              }, 'json');
               document.location.href = '/';
             });
         });
