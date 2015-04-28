@@ -49,4 +49,4 @@ title: About
 
 结业证书：音乐节结束后将提供培训结业证书和教师推荐信
 
-
+<iframe width="480" height="360" src="http://www.youtube.com/embed/T_dT5REYJS4" frameborder="0"> </iframe>
