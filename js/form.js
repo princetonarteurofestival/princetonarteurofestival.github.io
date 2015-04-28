@@ -40,10 +40,10 @@ $(document).ready(function() {
             $('#review').html(html);
             $('#reviewButton').click();
             $('#submit').click(function () {
-              $.post('http://45.55.129.52:3000/api', data, function(result) {
+              $.post('http://api.princetonfestival.info/form.php', data, function(result) {
                 console.log(result);
               }, 'json');
-              document.location.href = '/';
+              //document.location.href = '/';
             });
         });
 });
