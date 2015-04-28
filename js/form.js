@@ -43,7 +43,7 @@ $(document).ready(function() {
               $.post('http://api.princetonfestival.info/form.php', data, function(result) {
                 console.log(result);
               }, 'json');
-              //document.location.href = '/';
+              document.location.href = '/';
             });
         });
 });
